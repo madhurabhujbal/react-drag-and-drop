@@ -2,7 +2,9 @@
 function App() {
   return (
     <div className="App">
-      Hello
+      <main className="flexbox">
+        Here will be our boards!
+      </main>
     </div>
   );
 }
